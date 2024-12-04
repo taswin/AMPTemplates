@@ -1,5 +1,5 @@
 Meta.DisplayName=Valheim
-Meta.Description=Includes optional support for ValheimPlus and BepinEx
+Meta.Description=Includes optional support for BepinEx
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
 Meta.Arch=x86_64
@@ -8,7 +8,6 @@ Meta.URL=https://www.valheimgame.com/
 Meta.DisplayImageSource=steam:892970
 Meta.EndpointURIFormat=steam://connect/{ip}:{GenericModule.App.Ports.$ApplicationPort2}
 Meta.ConfigManifest=valheimconfig.json
-Meta.MetaConfigManifest=valheimmetaconfig.json
 Meta.ConfigRoot=valheim.kvp
 Meta.MinAMPVersion=2.2.2.0
 Meta.SpecificDockerImage=
