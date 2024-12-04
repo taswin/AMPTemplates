@@ -1,4 +1,4 @@
-Meta.DisplayName=Valheim
+Meta.DisplayName=Valheim (taswin)
 Meta.Description=Includes optional support for BepinEx
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
@@ -23,7 +23,7 @@ Meta.NoCommercialUsage=False
 Meta.ConfigVersion=1.2
 Meta.ReleaseNotes=
 Meta.BreakingReleaseNotes=
-Meta.AppConfigId=1b7a66b4-6a89-47e3-9d18-5afa37a4634e
+Meta.AppConfigId=30fd2650-af3e-4247-bf40-e63588b3a258
 Meta.ImportableExtensions=[]
 App.DisplayName=Valheim
 App.RootDir=./Valheim/
